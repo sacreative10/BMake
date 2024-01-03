@@ -1,0 +1,4 @@
+exampleObjs/
+objs/
+*.o
+
